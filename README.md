@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sukirtha
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Software+Developer;Java+Developer;Generative+AI+Engineer;LLMs+%7C+RAG+%7C+Prompt+Engineering;Building+Scalable+AI+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Software+Developer;Generative+AI+Engineer;LLMs+%7C+RAG+%7C+Prompt+Engineering;Building+Scalable+AI+Applications" />
 
 <img src="https://komarev.com/ghpvc/?username=sukirtha2004&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
